@@ -1,4 +1,6 @@
 the beginning day
-it is the start line
-let's do that
+It is the start line
+Let's do that
 first step:
+The beginning is
+introduction
