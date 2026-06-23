@@ -4,3 +4,5 @@ Let's do that
 first step:
 The beginning is
 introduction
+my favorite coin is ETH
+which is the second coin in the table 
