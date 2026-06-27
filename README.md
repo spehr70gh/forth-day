@@ -11,4 +11,6 @@ on the top of the list
 the ETH is second
 and then BNB at the third place
 now follow the prices
-and their market values
+and their market values.
+you can check all infos on online platforms
+or many dexes
