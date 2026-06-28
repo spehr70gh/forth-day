@@ -14,3 +14,6 @@ now follow the prices
 and their market values.
 you can check all infos on online platforms
 or many dexes
+now we will go on 
+the next step which
+is the best choose.
