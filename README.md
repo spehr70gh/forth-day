@@ -17,3 +17,6 @@ or many dexes
 now we will go on 
 the next step which
 is the best choose.
+first you need to select
+a dex to be able
+
