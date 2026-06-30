@@ -18,5 +18,7 @@ now we will go on
 the next step which
 is the best choose.
 first you need to select
-a dex to be able
+a dex to be able trade.
+to doing it, transfer
+some money in the account
 
