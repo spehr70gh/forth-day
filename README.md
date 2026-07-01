@@ -21,4 +21,7 @@ first you need to select
 a dex to be able trade.
 to doing it, transfer
 some money in the account
+to be able to purchase
+some token like eth
+
 
