@@ -23,5 +23,8 @@ to doing it, transfer
 some money in the account
 to be able to purchase
 some token like eth
+after putting your order
+it will be purchased by your line
+
 
 
