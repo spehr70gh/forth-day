@@ -24,7 +24,10 @@ some money in the account
 to be able to purchase
 some token like eth
 after putting your order
-it will be purchased by your line
+it will be purchased by your line.
+after buying, you can transfer them 
+into you private wallet.
+
 
 
 
