@@ -27,6 +27,10 @@ after putting your order
 it will be purchased by your line.
 after buying, you can transfer them 
 into you private wallet.
+Just double-check the destination
+address in your wallet to prevent losing
+
+
 
 
 
