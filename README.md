@@ -28,7 +28,9 @@ it will be purchased by your line.
 after buying, you can transfer them 
 into you private wallet.
 Just double-check the destination
-address in your wallet to prevent losing
+address in your wallet to prevent losing.
+after sending the tokens
+into your private wallet
 
 
 
