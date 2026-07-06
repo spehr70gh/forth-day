@@ -30,7 +30,10 @@ into you private wallet.
 Just double-check the destination
 address in your wallet to prevent losing.
 after sending the tokens
-into your private wallet
+into your private wallet,
+you can keep and save them
+into your wallet for years.
+
 
 
 
