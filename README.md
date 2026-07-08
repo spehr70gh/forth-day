@@ -34,7 +34,10 @@ into your private wallet,
 you can keep and save them
 into your wallet for years.
 there are many wallets that
-support tokens to keep them
+support tokens to keep them.
+be patiant and always
+try to seek the best opportunities.
+
 
 
 
